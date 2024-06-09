@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "By Joshua Berlinger, Antoinette Radford, Shania Shelton and Kyle Feldscher, CNN",
+      "title": "Live updates: D-Day 80th anniversary in Normandy, Biden, Macron, Zelensky, Prince William attend - CNN",
+      "description": "World leaders visited the beaches of Normandy on Thursday to mark the 80th anniversary of D-Day.",
+      "url": "https://www.cnn.com/europe/live-news/d-day-80-anniversary-06-06-24-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/240605095827-01-dday-commemorations-060424-super-tease.jpg",
+      "publishedAt": "2024-06-06T18:21:00Z",
+      "content": "Robert Persichitti, a 102-year-old World War II US Navy veteran, died last week while on his way to France to commemorate the 80th anniversary of D-Day, according to Honor Flight Rochester, a veteran… [+1476 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Mary Kekatos, Gina Sunseri",
+      "title": "Boeing's Starliner successfully docks at ISS after helium leaks, thruster issue - ABC News",
+      "description": "NASA said two of the helium valves have been closed.",
+      "url": "https://abcnews.go.com/US/helium-leaks-discovered-onboard-boeings-starliner-track-reach/story?id=110893167",
+      "urlToImage": "https://i.abcnewsfe.com/a/1b4d3602-8fca-4534-857e-d18bb98a1a48/Starliner-gty-ml-240606_1717678593904_hpMain_16x9.jpg?w=1600",
+      "publishedAt": "2024-06-06T18:00:00Z",
+      "content": "Boeing's Starliner successfully docked at the International Space Station (ISS) Thursday afternoon, marking another milestone in the first astronaut-crewed test flight of the spacecraft.\r\nNASA and Bo… [+2091 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Deadline" },
+      "author": "Katie Campione, Dominic Patten",
+      "title": "No Deal, Yet: Tensions Rise As IATSE & Studios Fail To Seal Basic Agreement Pact, More Talks Planned - Deadline",
+      "description": "The union & the AMPTP are going back to the bargaining table with the parties far apart on money",
+      "url": "http://deadline.com/2024/06/iatse-contact-talks-no-deal-yet-1235960690/",
+      "urlToImage": "https://deadline.com/wp-content/uploads/2021/06/IATSE-Hollywood.jpg?w=1000",
+      "publishedAt": "2024-06-06T17:30:00Z",
+      "content": "Hollywood may be experiencing some labor déjà vu today as IATSE talks with the studios look certain to go down to the wire with just under two months before the union’s contracts expire.\r\nThe union a… [+3928 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Emma Roth",
+      "title": "Suicide Squad left a $200 million hole in WBD's video game division - The Verge",
+      "description": "Warner Bros. Discovery lost $200 million following the release of the ill-received Suicide Squad: Kill the Justice League, and a report from Bloomberg details what went wrong.",
+      "url": "https://www.theverge.com/2024/6/6/24172905/suicide-squad-kill-justice-league-200-million-loss-wbd-rocksteady",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/a9I9QXoudyt86YZnUk_9120CPZU=/0x0:1920x817/1200x628/filters:focal(960x409:961x410)/cdn.vox-cdn.com/uploads/chorus_asset/file/25480428/suicide_squad_kill_justice_league.jpg",
+      "publishedAt": "2024-06-06T17:23:12Z",
+      "content": "Suicide Squad left a $200 million hole in WBDs video game division\r\nSuicide Squad left a $200 million hole in WBDs video game division\r\n / A new report from Bloomberg details the major struggles that… [+2355 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gizmodo.com" },
+      "author": "Ed Cara",
+      "title": "A Bird Flu Virus Has Killed Its First Human - Gizmodo",
+      "description": "Mexico and WHO health officials have reported the first known human case and death tied to H5N2 avian influenza. No further cases have been detected yet.",
+      "url": "https://gizmodo.com/h5n2-bird-flu-virus-kills-first-human-1851523770",
+      "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8f8b683a02e93f29ad1c124d06a95166.jpg",
+      "publishedAt": "2024-06-06T16:55:00Z",
+      "content": "A particular type of bird flu has now killed its first human. On Wednesday, Mexican health officials and the World Health Organization announced a confirmed case of H5N2 avian influenza in a 59-year-… [+3248 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KCRA Sacramento" },
+      "author": "Jonathan Ayestas",
+      "title": "Northern California forecast: Delta breeze will bring slight relief from above-average temperatures - KCRA Sacramento",
+      "description": "Above-average temperatures don't appear to be going anywhere soon for Northern California, but some overnight relief might be present in the form of a cool Delta breeze.",
+      "url": "https://www.kcra.com/article/northern-california-forecast-june-6-2024/61015445",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/666f036b-8f50-44ee-acee-73d91b95d839/391082bb-99b0-4c3d-bc21-7dddd665682c.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2024-06-06T16:52:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "ESPN",
+      "title": "Sources - Chiefs' Thompson stable in hospital after cardiac arrest - ESPN",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3LmVzcG4uY29tL25mbC9zdG9yeS9fL2lkLzQwMjkxNzA4L3NvdXJjZS1jaGllZnMtYmotdGhvbXBzb24tc2VudC1ob3NwaXRhbC1zdGFibGUtY29uZGl0aW9u0gEA?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-06T16:49:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Aly J. Yale",
+      "title": "When will mortgage rates go down? A look at 2024 and 2025. - Yahoo Finance",
+      "description": "Mortgage rates are not going down right now, but expert rate predictions say they will end 2024 between 6.5% and 7%. Learn when mortgage rates will go down.",
+      "url": "https://finance.yahoo.com/personal-finance/when-will-mortgage-rates-go-down-164144910.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Arbgos5H7HKvOFUKT7jpmQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-03/8dc0b030-9e3a-11ec-bded-61a6b9a2738c",
+      "publishedAt": "2024-06-06T16:41:45Z",
+      "content": "Since late 2022, mortgage rates have jumped between 6% and 7% and in fall 2023, they nearly eclipsed 8%, marking the highest 30-year mortgage rate seen in over two decades.\r\nCombined with rising home… [+7332 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "HILLEL ITALIE",
+      "title": "A new 'Hunger Games' book — and movie — is coming - The Associated Press",
+      "description": "Inspired by an 18th century Scottish philosopher and the modern scourge of misinformation, Suzanne Collins is returning to the ravaged, post-apocalyptic land of Panem for a new “The Hunger Games” novel. Scholastic announced Thursday that “Sunrise on the Reapi…",
+      "url": "https://apnews.com/article/hunger-games-suzanne-collins-sunrise-reaping-b30163b4707f4db55eb68513f197affc",
+      "urlToImage": "https://dims.apnews.com/dims4/default/7126858/2147483647/strip/true/crop/2631x1480+0+137/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F96%2Fe7%2Fca7684a94749f46189c6b00423c4%2F8efbf47aefa049cba6f64ee15f3f05ba",
+      "publishedAt": "2024-06-06T16:29:00Z",
+      "content": "NEW YORK (AP) Inspired by an 18th century Scottish philosopher and the modern scourge of misinformation, Suzanne Collins is returning to the ravaged, post-apocalyptic land of Panem for a new The Hung… [+2522 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "USA TODAY",
+      "title": "Gilgo Beach serial killer suspect charged with more murders - USA TODAY",
+      "description": null,
+      "url": "https://www.usatoday.com/story/news/nation/2024/06/06/gilgo-beach-rex-heuermann-additional-murder-charges/73354319007/",
+      "urlToImage": null,
+      "publishedAt": "2024-06-06T16:27:30Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Apple WWDC 2024 preview: All in on AI | Engadget Podcast - Engadget",
+      "description": "We're gearing up to cover Apple's Worldwide Developers Conference (WWDC) next week! In this episode, Cherlynn and Devindra dive into everything they expect a...",
+      "url": "https://www.youtube.com/watch?v=AogWbUmC4ww",
+      "urlToImage": "https://i.ytimg.com/vi/AogWbUmC4ww/maxresdefault.jpg",
+      "publishedAt": "2024-06-06T16:23:51Z",
+      "content": null
+    },
+    {
+      "source": { "id": "google-news", "name": "Google News" },
+      "author": "Variety",
+      "title": "Pat Sajak Sets First Gig After ‘Wheel of Fortune’ Exit: A Community Theater ‘Columbo’ Play in Hawaii (EXCLUSIVE) - Variety",
+      "description": null,
+      "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3BhdC1zYWphay1maXJzdC1wb3N0LXdoZWVsLW9mLWZvcnR1bmUtZ2lnLXN0YWdlLWNvbHVtYm8tcGxheS1wcmVzY3JpcHRpb24tbXVyZGVyLTEyMzYwMjY4NzAv0gGBAWh0dHBzOi8vdmFyaWV0eS5jb20vMjAyNC90di9uZXdzL3BhdC1zYWphay1maXJzdC1wb3N0LXdoZWVsLW9mLWZvcnR1bmUtZ2lnLXN0YWdlLWNvbHVtYm8tcGxheS1wcmVzY3JpcHRpb24tbXVyZGVyLTEyMzYwMjY4NzAvYW1wLw?oc=5",
+      "urlToImage": null,
+      "publishedAt": "2024-06-06T16:15:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Mark Johnson, Sabrina Malhi",
+      "title": "Whooping cough cases double in the U.S., a potential legacy of the pandemic - The Washington Post",
+      "description": "Whooping cough cases have more than doubled so far in 2024, raising concerns for infants and older adults, the two groups at highest risk.",
+      "url": "https://www.washingtonpost.com/health/2024/06/06/whooping-cough-cases-rising/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ALHZ52B2AGXBDCS5FYMHOZLA5I_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-06-06T16:11:23Z",
+      "content": "Whooping cough, a bacterial illness that poses an especially significant threat to infants, is surging in the United States another potential legacy of the coronavirus pandemic.\r\nFederal disease trac… [+6823 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Chris Isidore",
+      "title": "NFL faces multi-billion dollar antitrust suit over its Sunday Ticket package - CNN",
+      "description": "A class action case challenging the legality of the NFL’s Sunday Ticket package, whose opening arguments are scheduled for Thursday, could shake up television rights deals in professional sports and the way teams make money.",
+      "url": "https://www.cnn.com/2024/06/06/business/nfl-sunday-ticket-antitrust-suit/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1753036539.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-06-06T16:10:00Z",
+      "content": "A class action case challenging the legality of the NFLs Sunday Ticket package, whose opening arguments are scheduled for Thursday, could shake up television rights deals in professional sports and t… [+2198 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Michael Dorgan",
+      "title": "Rare, sexually transmitted ringworm reported in NYC - Fox News",
+      "description": "A new form of ringworm which looks like eczema and spread through sex was detected in a man in his 30s who slept with multiple other men on trips.",
+      "url": "https://www.foxnews.com/health/rare-sexually-transmitted-ringworm-reported-nyc",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/09/eczema.gif",
+      "publishedAt": "2024-06-06T16:03:00Z",
+      "content": "Join Fox News for access to this content\r\nYou have reached your maximum number of articles. Log in or create an account FREE of charge to continue reading.\r\nBy entering your email and pushing continu… [+4065 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "How Walmart Turned Bentonville, Arkansas Into A Boomtown - CNBC",
+      "description": "Walmart’s hometown of Bentonville, Arkansas has become a surprising boomtown with many amenities you might expect to find in New York, Austin or San Francisc...",
+      "url": "https://www.youtube.com/watch?v=MsCGme9epBQ",
+      "urlToImage": "https://i.ytimg.com/vi/MsCGme9epBQ/maxresdefault.jpg",
+      "publishedAt": "2024-06-06T16:00:19Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Michael Wayland",
+      "title": "Rivian redesigns all-electric R1 pickup and SUV, adds Nvidia chips and improves performance - CNBC",
+      "description": "Rivian said it has changed more than half the hardware components for the second-generation products ahead of anticipated R2 models.",
+      "url": "https://www.cnbc.com/2024/06/06/rivian-r1-pickup-suv-redesigned.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107425058-1717696855382-107425058-1717676972596-Exterior14.jpg?v=1717696871&w=1920&h=1080",
+      "publishedAt": "2024-06-06T16:00:01Z",
+      "content": "Rivian Automotive has redesigned its all-electric R1 pickup and SUV models to improve range, performance and computing power with the help of Nvidia chips, the company said Thursday.\r\nWhile the 2025 … [+3353 chars]"
+    },
+    {
+      "source": { "id": "espn", "name": "ESPN" },
+      "author": "ESPN insiders",
+      "title": "How hiring UConn's Dan Hurley could impact the Los Angeles Lakers, LeBron James and Bronny - ESPN",
+      "description": "Here's what we know -- and what it could mean for the future of LeBron, Bronny and the Lakers franchise.",
+      "url": "https://www.espn.com/nba/story/_/id/40290745/how-hiring-uconn-dan-hurley-impact-los-angeles-lakers-lebron-james-bronny",
+      "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0606%2Fr1342470_1296x729_16%2D9.jpg",
+      "publishedAt": "2024-06-06T15:55:00Z",
+      "content": "One month after firing Darvin Ham, the Lakers are zeroing in on their next head coach. Sources told ESPN's Adrian Wojnarowski that Los Angeles is preparing a massive, long-term contract offer to pry … [+7696 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Simon Speakman Cordall, Urooba Jamal",
+      "title": "‘Standing Together’ against far-right Israeli hate in Jerusalem - Al Jazeera English",
+      "description": "A group of Jewish Israelis and Palestinians are taking on settlers and the orthodoxy of Israel’s far-right.",
+      "url": "https://www.aljazeera.com/news/2024/6/6/jewish-israelis-and-palestinians-push-back-against-hatred",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/06/2024-06-05T130124Z_1172009956_RC2058ARCM8R_RTRMADP_3_ISRAEL-PALESTINIANS-JERUSALEM-DAY-MARCH-1717598092.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-06-06T15:45:00Z",
+      "content": "Tens of thousands of mostly young, right-wing Israelis marched through occupied East Jerusalems Old City on Wednesday, brandishing Israeli flags and anti-Palestinian slogans at the people living in t… [+8015 chars]"
+    }
+  ]
+}
